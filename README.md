@@ -152,6 +152,7 @@ In front of you now is a curated list of *awesome* talks that are worthy of your
 #### Building companies
 * [Start-up advice & How to talk to customers](https://www.youtube.com/watch?v=FG1Fa-t4AEQ) by **Rob Fitzpatrick** [1:07:03]
 * [Kill Your Inner Code Monkey](https://www.youtube.com/watch?v=X6qlDJBz55s) by **Patrick McKenzie** [45:09]
+* [Leveling Up](https://www.youtube.com/watch?v=-Tg48MVnBeQ) by **Patrick McKenzie** [56:19]
 * [Keeping the Flywheel in Motion - Good to Great](https://www.youtube.com/watch?v=7xIrgD6NxHI) by **Shane Parrish, Jim Collins** [2:23:37]
 
 #### License
